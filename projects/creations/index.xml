@@ -1,37 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creations on Glendon Hodges</title>
-    <link>https://example.com/projects/creations/</link>
-    <description>Recent content in Creations on Glendon Hodges</description>
+    <title>Documentation on Glendon Hodges</title>
+    <link>localhost:1313/projects/creations/</link>
+    <description>Recent content in Documentation on Glendon Hodges</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="localhost:1313/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://example.com/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>Analytics reporting</title>
+      <link>localhost:1313/projects/creations/calabrio-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <guid>localhost:1313/projects/creations/calabrio-analytics/</guid>
+      <description>The functionality of the reports drove most of the demand for this software. I provided a brief explanation of report creation. The content structure was determined by the existing style of the Confluence space and Calabrio style.</description>
     </item>
     
     <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://example.com/projects/creations/marketplace/</link>
+      <title>Machine Learning</title>
+      <link>localhost:1313/projects/creations/cherwell-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+      <guid>localhost:1313/projects/creations/cherwell-machine-learning/</guid>
+      <description>As with most ML features, the difficult technology remains unseen by the user. A large part of my work involved using minimalist writing techniques to provide only what the user needed when they needed it. This involved brokering a compromise regarding what information is available to the different audiences involved in the project: end-user, customer administrator, and internal audiences (development, support, etc.).</description>
     </item>
     
     <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <title>Message Queue Service</title>
+      <link>localhost:1313/projects/creations/cherwell-mqs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>localhost:1313/projects/creations/cherwell-mqs/</guid>
+      <description>A feature development team that I worked with at Cherwell replaced the message queue service with an open source option. After starting as a couple small topics to describe the implementation by development, the support team noticed repeated questions in customer calls. To reduce the number of support calls, I made iterative changes to the documentation to dig deeper into this application. The documentation set for this project evolved to encompass multiple configuration, and troubleshooting topics.</description>
+    </item>
+    
+    <item>
+      <title>Report creation</title>
+      <link>localhost:1313/projects/creations/calabrio-reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/projects/creations/calabrio-reports/</guid>
+      <description>This topic introduces the procedure for report creation in Calabrio Advanced Reporting. The information addresses an elementary step in using the reporting software. While providing this new information, it adheres to the existing style and topic structure for tasks.</description>
     </item>
     
   </channel>

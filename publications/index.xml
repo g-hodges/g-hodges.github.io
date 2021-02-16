@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Glendon Hodges</title>
-    <link>https://example.com/publications/</link>
-    <description>Recent content in Publications on Glendon Hodges</description>
+    <title>Industry Involvement and Volunteer Positions on Glendon Hodges</title>
+    <link>localhost:1313/publications/</link>
+    <description>Recent content in Industry Involvement and Volunteer Positions on Glendon Hodges</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://example.com/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Conference Volunteer</title>
+      <link>localhost:1313/publications/wtd-pdx/</link>
+      <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
       
-      <guid>https://example.com/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>localhost:1313/publications/wtd-pdx/</guid>
+      <description> Helped manage the unconference digital topic board. Assisted speakers before and after presentations  </description>
+    </item>
+    
+    <item>
+      <title>Editor and Board Member: STC TCBOK</title>
+      <link>localhost:1313/publications/tcbok/</link>
+      <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
+      
+      <guid>localhost:1313/publications/tcbok/</guid>
+      <description> Help decide the future of the Body of Knowledge. Assess priorities for TCBOK projects. Edit content for spelling, grammar, and style. Create forms for reader submissions. Clean up HTML in WordPress. Create content.  </description>
     </item>
     
   </channel>
