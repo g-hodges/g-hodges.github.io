@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Glendon Hodges</title>
-    <link>localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Home on Glendon Hodges</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlassian Deployment Triggers</title>
-      <link>localhost:1313/projects/contributions/deploy-triggers/</link>
+      <link>/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/contributions/deploy-triggers/</guid>
+      <guid>/projects/contributions/deploy-triggers/</guid>
       <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
     </item>
     
     <item>
       <title>Conference Volunteer</title>
-      <link>localhost:1313/publications/wtd-pdx/</link>
+      <link>/publications/wtd-pdx/</link>
       <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
       
-      <guid>localhost:1313/publications/wtd-pdx/</guid>
+      <guid>/publications/wtd-pdx/</guid>
       <description> Helped manage the unconference digital topic board. Assisted speakers before and after presentations  </description>
     </item>
     
     <item>
       <title>Editor and Board Member: STC TCBOK</title>
-      <link>localhost:1313/publications/tcbok/</link>
+      <link>/publications/tcbok/</link>
       <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
       
-      <guid>localhost:1313/publications/tcbok/</guid>
+      <guid>/publications/tcbok/</guid>
       <description> Help decide the future of the Body of Knowledge. Assess priorities for TCBOK projects. Edit content for spelling, grammar, and style. Create forms for reader submissions. Clean up HTML in WordPress. Create content.  </description>
     </item>
     
     <item>
       <title>Added Docker Build Status Badge to shields.io</title>
-      <link>localhost:1313/projects/contributions/shields-docker/</link>
+      <link>/projects/contributions/shields-docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>localhost:1313/projects/contributions/shields-docker/</guid>
+      <guid>/projects/contributions/shields-docker/</guid>
       <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
     </item>
     
     <item>
       <title>Schema.org Structured Data documentation fixes</title>
-      <link>localhost:1313/projects/contributions/schema-org/</link>
+      <link>/projects/contributions/schema-org/</link>
       <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
       
-      <guid>localhost:1313/projects/contributions/schema-org/</guid>
+      <guid>/projects/contributions/schema-org/</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
     </item>
     
     <item>
       <title>Forcing Visits to use SSL</title>
-      <link>localhost:1313/blog/force-ssl/</link>
+      <link>/blog/force-ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>localhost:1313/blog/force-ssl/</guid>
+      <guid>/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
  First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>
       <title>Analytics reporting</title>
-      <link>localhost:1313/projects/creations/calabrio-analytics/</link>
+      <link>/projects/creations/calabrio-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/creations/calabrio-analytics/</guid>
+      <guid>/projects/creations/calabrio-analytics/</guid>
       <description>The functionality of the reports drove most of the demand for this software. I provided a brief explanation of report creation. The content structure was determined by the existing style of the Confluence space and Calabrio style.</description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>localhost:1313/projects/creations/cherwell-machine-learning/</link>
+      <link>/projects/creations/cherwell-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/creations/cherwell-machine-learning/</guid>
+      <guid>/projects/creations/cherwell-machine-learning/</guid>
       <description>As with most ML features, the difficult technology remains unseen by the user. A large part of my work involved using minimalist writing techniques to provide only what the user needed when they needed it. This involved brokering a compromise regarding what information is available to the different audiences involved in the project: end-user, customer administrator, and internal audiences (development, support, etc.).</description>
     </item>
     
     <item>
       <title>Message Queue Service</title>
-      <link>localhost:1313/projects/creations/cherwell-mqs/</link>
+      <link>/projects/creations/cherwell-mqs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/creations/cherwell-mqs/</guid>
+      <guid>/projects/creations/cherwell-mqs/</guid>
       <description>A feature development team that I worked with at Cherwell replaced the message queue service with an open source option. After starting as a couple small topics to describe the implementation by development, the support team noticed repeated questions in customer calls. To reduce the number of support calls, I made iterative changes to the documentation to dig deeper into this application. The documentation set for this project evolved to encompass multiple configuration, and troubleshooting topics.</description>
     </item>
     
     <item>
       <title>Report creation</title>
-      <link>localhost:1313/projects/creations/calabrio-reports/</link>
+      <link>/projects/creations/calabrio-reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/creations/calabrio-reports/</guid>
+      <guid>/projects/creations/calabrio-reports/</guid>
       <description>This topic introduces the procedure for report creation in Calabrio Advanced Reporting. The information addresses an elementary step in using the reporting software. While providing this new information, it adheres to the existing style and topic structure for tasks.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>localhost:1313/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/search/</guid>
+      <guid>/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.

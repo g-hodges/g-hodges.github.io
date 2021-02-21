@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industry Involvement and Volunteer Positions on Glendon Hodges</title>
-    <link>localhost:1313/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Industry Involvement and Volunteer Positions on Glendon Hodges</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conference Volunteer</title>
-      <link>localhost:1313/publications/wtd-pdx/</link>
+      <link>/publications/wtd-pdx/</link>
       <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
       
-      <guid>localhost:1313/publications/wtd-pdx/</guid>
+      <guid>/publications/wtd-pdx/</guid>
       <description> Helped manage the unconference digital topic board. Assisted speakers before and after presentations  </description>
     </item>
     
     <item>
       <title>Editor and Board Member: STC TCBOK</title>
-      <link>localhost:1313/publications/tcbok/</link>
+      <link>/publications/tcbok/</link>
       <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
       
-      <guid>localhost:1313/publications/tcbok/</guid>
+      <guid>/publications/tcbok/</guid>
       <description> Help decide the future of the Body of Knowledge. Assess priorities for TCBOK projects. Edit content for spelling, grammar, and style. Create forms for reader submissions. Clean up HTML in WordPress. Create content.  </description>
     </item>
     
