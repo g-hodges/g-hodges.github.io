@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analytics reporting</title>
-      <link>/projects/creations/calabrio-analytics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/creations/calabrio-analytics/</guid>
-      <description>In 2017, Calabrio acquired an analytics and data visualization software company. At the time, customers had access to a limited set of documentation published on Confluence. The space was maintained by developers and product management. As the technical writer for this project, I reviewed published and unpublished content to develop a strategy and migrate content to MadCap Flare.
-The functionality of the reports drove most of the demand for this software.</description>
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>/projects/creations/cherwell-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +23,16 @@ The functionality of the reports drove most of the demand for this software.</de
       
       <guid>/projects/creations/cherwell-mqs/</guid>
       <description>A feature development team that I worked with at Cherwell replaced the message queue service with an open source option. After starting as a couple small topics to describe the implementation by development, the support team noticed repeated questions in customer calls. To reduce the number of support calls, I made iterative changes to the documentation to dig deeper into this application. The documentation set for this project evolved to encompass multiple configuration, and troubleshooting topics.</description>
+    </item>
+    
+    <item>
+      <title>Reports: Concept explanation</title>
+      <link>/projects/creations/calabrio-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/creations/calabrio-analytics/</guid>
+      <description>In 2017, Calabrio acquired an analytics and data visualization software company. At the time, customers had access to a limited set of documentation published on Confluence. The space was maintained by developers and product management. As the technical writer for this project, I reviewed published and unpublished content to develop a strategy and migrate content to MadCap Flare.
+The functionality of the reports drove most of the demand for this software.</description>
     </item>
     
     <item>

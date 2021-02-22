@@ -156,10 +156,6 @@
   </url>
   
   <url>
-    <loc>/projects/creations/calabrio-analytics/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/bamboo/</loc>
   </url>
   
@@ -193,6 +189,10 @@
   
   <url>
     <loc>/tags/reporting/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/creations/calabrio-analytics/</loc>
   </url>
   
   <url>
