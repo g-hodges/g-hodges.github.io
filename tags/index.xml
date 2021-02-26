@@ -53,51 +53,6 @@
     </item>
     
     <item>
-      <title>Conference</title>
-      <link>/tags/conference/</link>
-      <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
-      
-      <guid>/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WTD</title>
-      <link>/tags/wtd/</link>
-      <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
-      
-      <guid>/tags/wtd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STC</title>
-      <link>/tags/stc/</link>
-      <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
-      
-      <guid>/tags/stc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>/tags/website/</link>
-      <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
-      
-      <guid>/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>/tags/wordpress/</link>
-      <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
-      
-      <guid>/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apache</title>
       <link>/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
@@ -184,15 +139,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MachineLearning</title>
-      <link>/tags/machinelearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machinelearning/</guid>
       <description></description>
     </item>
     

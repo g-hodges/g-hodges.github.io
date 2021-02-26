@@ -17,24 +17,6 @@
     </item>
     
     <item>
-      <title>Conference Volunteer</title>
-      <link>/publications/wtd-pdx/</link>
-      <pubDate>Wed, 01 May 2019 17:08:21 +0000</pubDate>
-      
-      <guid>/publications/wtd-pdx/</guid>
-      <description> Helped manage the unconference digital topic board. Assisted speakers before and after presentations  </description>
-    </item>
-    
-    <item>
-      <title>Editor and Board Member: STC TCBOK</title>
-      <link>/publications/tcbok/</link>
-      <pubDate>Wed, 01 Oct 2014 17:08:21 +0000</pubDate>
-      
-      <guid>/publications/tcbok/</guid>
-      <description> Help decide the future of the Body of Knowledge. Assess priorities for TCBOK projects. Edit content for spelling, grammar, and style. Create forms for reader submissions. Clean up HTML in WordPress. Create content.  </description>
-    </item>
-    
-    <item>
       <title>Added Docker Build Status Badge to shields.io</title>
       <link>/projects/contributions/shields-docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
@@ -60,15 +42,6 @@
       <guid>/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
  First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/projects/creations/cherwell-machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/creations/cherwell-machine-learning/</guid>
-      <description>As with most ML features, the difficult technology remains unseen by the user. A large part of my work involved using minimalist writing techniques to provide only what the user needed when they needed it. This involved brokering a compromise regarding what information is available to the different audiences involved in the project: end-user, customer administrator, and internal audiences (development, support, etc.).</description>
     </item>
     
     <item>
